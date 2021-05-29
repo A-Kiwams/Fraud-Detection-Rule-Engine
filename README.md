@@ -1,2 +1,2 @@
-# WordPress-custom-theme-development
-Custom theme development in WordPress
+# Manage BookMarks
+Conveniently add and manage Bookmarks easily
