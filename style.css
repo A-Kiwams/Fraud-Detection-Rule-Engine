@@ -81,7 +81,6 @@ a:active{
 
 /*** modal ***/
 .modal-container{
-
   background: rgba(0, 0, 0, 0.6);
   display: none;
   position: fixed;
@@ -92,7 +91,14 @@ a:active{
 }
 .show-modal{
   display: flex;
-  
+  justify-content: center;
+  align-items: center;
+}
+.modal{
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  max-width: 95%;
+  width: 500px;
 }
 
 /*** nedia query: large smartphone (vertical) ***/
